@@ -1,4 +1,4 @@
-# Scientific Calculator in C
+## Scientific Calculator in C
 
 A robust, menu-driven command-line scientific calculator built using the C programming language. This tool provides a wide range of mathematical functions, from basic arithmetic to trigonometry and unit conversions.
 
