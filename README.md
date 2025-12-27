@@ -23,7 +23,7 @@ The calculator supports 12 distinct operations:
 1.  **Prerequisites:** Ensure you have a C compiler installed (like `gcc`).
 2.  **Clone the Repository:**
     ```bash
- git clone   https://github.com/Amarjeetchaudhary601/Scientific-Calculator-
+     git clone   https://github.com/Amarjeetchaudhary601/Scientific-Calculator-
     cd scientific-calculator-
     ```
 3.  **Compile the Code:**
